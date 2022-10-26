@@ -7,9 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+//Importar las librerias de WatiN
 using WatiN.Core;
 using WatiN.Core.Native.InternetExplorer;
-using WatiN.Core.Native.Mozilla;
 
 namespace WatiNtest
 {
